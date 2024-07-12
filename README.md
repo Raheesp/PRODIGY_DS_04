@@ -68,13 +68,7 @@ Here are some visualizations produced by the sentiment analysis script:
 - **Public Opinion:** Analyzed the overall sentiment to understand public opinion and attitudes.
 - **Insights:** Highlighted key themes in positive and negative sentiments.
 
-### Contributing
 
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
-### License
-
-MIT License. See [LICENSE](LICENSE) for details.
 
 ### `analyze_sentiment.py` Script
 
